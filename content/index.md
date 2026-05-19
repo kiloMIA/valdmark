@@ -1,4 +1,6 @@
 ---
 title: Welcome to Quartz
 ---
-добро пожаловать
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
